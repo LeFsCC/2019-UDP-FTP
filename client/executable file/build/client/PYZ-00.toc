@@ -1,0 +1,542 @@
+('E:\\course\\Autumn_2019\\Computer '
+ 'Networks\\2017013564\\client\\src\\build\\client\\PYZ-00.pyz',
+ [('ntpath',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\token.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\os.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\zhang '
+   'jiachen\\appdata\\local\\programs\\python\\python37-32\\lib\\socket.py',
+   'PYMODULE')])
